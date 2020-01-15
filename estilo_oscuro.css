@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+/*Selector Universal*/
+/***************************************************/
+
+*{
+	margin: 5px;
+	padding: 5px;
+	font-family: Arial;
+}
+body { background: #2D516F; color:#E6ECF2}
+
+/*Titulos*/
+/***************************************************/
+h1 { font-family:"Times New Roman", Times, serif; color:#B0DCFF; text-align:center;}
+h2 { font-family:"Times New Roman", Times, serif; color:#39F;}
+h3 { font-family:"Times New Roman", Times, serif; color:#39F;}
+h4 { font-family:"Times New Roman", Times, serif; color:#39F;}
+h5 { font-family:"Times New Roman", Times, serif; color:#39F;}
+h6 { font-family:"Times New Roman", Times, serif; color:#39F;}
+
+/*Parrafos*/
+/***************************************************/
+p { font-family:Arial, Helvetica, sans-serif;}
+
+/*Etiquetas*/
+/***************************************************/
+em { color:#06F;}
+strong { color:#06F;}
+th { background-color:#111; color:#09F; }
+tr { background-color:#333; color:#09F; }
