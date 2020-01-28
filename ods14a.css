@@ -1,5 +1,19 @@
 @charset "utf-8"
-*{margin: 5px;
+{margin: 5px;
 	padding: 5px;
     font-family: Arial;}
+    
     body { background: rgb(36, 73, 238); color:rgb(7, 218, 233)}
+    h1 {
+        font-family: "Comic Sans Ms"; 
+        text-shadow: 2px 2px rgb(255, 255, 255); // css3
+        padding:10px 10px 10px 10px;
+        margin-right: 30em;
+        background: White; 
+        color: black; 
+        font-family: Arial;
+        border: black 5px;
+        
+    }
+    
+    img { margin-right: 50px; float: right;}
