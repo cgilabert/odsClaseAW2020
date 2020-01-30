@@ -1,66 +1,31 @@
-body {
-    padding-left: 12em;
-    font-family: Arial;
-    color: rgb(214, 180, 27);
-    background-color: #2D3548; 
-}
+@charset "utf-8";
+/* CSS Document */
+/*Selector Universal*/
+/***************************************************/
 
-h1 {
-  font-family: Arial; 
+*{
+	margin: 5px;
+	padding: 5px;
+	font-family: Arial;
 }
+body { background: #F3F3F3; color:#006699}
 
-ul {
-padding: 5px;
-margin: 0;
-width: 140px;
-list-style: none;
-background: #A66B00;	
-position:fixed;
-left:18px;
-top:80px;		
-}
+/*Titulos*/
+/***************************************************/
+h1 { font-family:"Times New Roman", Times, serif; color:#3CF; text-align:center;}
+h2 { font-family:"Times New Roman", Times, serif; color:#39F;}
+h3 { font-family:"Times New Roman", Times, serif; color:#39F;}
+h4 { font-family:"Times New Roman", Times, serif; color:#39F;}
+h5 { font-family:"Times New Roman", Times, serif; color:#39F;}
+h6 { font-family:"Times New Roman", Times, serif; color:#39F;}
 
-li a {
-padding: .2em 0 .2em 1.5em;
-display: block;
-text-decoration: none;
-background: rgb(235, 176, 68);
-}
+/*Parrafos*/
+/***************************************************/
+p { font-family:Arial, Helvetica, sans-serif;}
 
-li {
-border-top: 2px solid rgb(247, 247, 247);
-}
-
-
-li a:hover, li a:active {
-background: rgb(39, 81, 158);
-}
-
-li a:visited {
-color:black;
-}
-
-img { 
-margin-right: 50px;
-float: right;
-}
-
-p{
-padding:10px 10px 10px 10px;
-margin-right: 30em;
-background: #BFC7D7; 
-color: #2D3548; 
-font-family: Arial;
-border: solid #7D8DAE 5px;
-}
-
-button{
-padding:10px 10px 10px 10px;
-margin-right: 30em;
-background: #FFCC6F; 
-}
-
-img{
-  padding:10px 10px 10px 10px;
-  margin-right: 30em;
-}
+/*Etiquetas*/
+/***************************************************/
+em { color:#06F;}
+strong { color:#06F;}
+th { background-color:#CCC; color:#09F; }
+tr { background-color:#CCC; color:#09F; }
