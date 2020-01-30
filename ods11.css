@@ -6,14 +6,14 @@
 *{
 	margin: 5px;
 	padding: 5px;
-	font-family: Arial;
+	font-family: 'Times New Roman', Times, serif;
 }
-body { background: #F3F3F3; color:#006699}
+body { background: rgba(207, 207, 211, 0.514); color:#2b2b2b}
 
 /*Titulos*/
 /***************************************************/
-h1 { font-family:"Times New Roman", Times, serif; color:#3CF; text-align:center;}
-h2 { font-family:"Times New Roman", Times, serif; color:#39F;}
+h1 { font-family:"Times New Roman", Times, serif; color:rgb(41, 52, 204); text-align:center;}
+h2 { font-family:"Times New Roman", Times, serif; color:rgb(69, 207, 189);}
 h3 { font-family:"Times New Roman", Times, serif; color:#39F;}
 h4 { font-family:"Times New Roman", Times, serif; color:#39F;}
 h5 { font-family:"Times New Roman", Times, serif; color:#39F;}
@@ -21,7 +21,7 @@ h6 { font-family:"Times New Roman", Times, serif; color:#39F;}
 
 /*Parrafos*/
 /***************************************************/
-p { font-family:Arial, Helvetica, sans-serif;}
+p { font-family:'Times New Roman', Times, serif;}
 
 /*Etiquetas*/
 /***************************************************/
