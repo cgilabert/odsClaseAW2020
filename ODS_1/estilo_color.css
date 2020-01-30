@@ -8,11 +8,11 @@
 	padding: 5px;
 	font-family: Arial;
 }
-body { background: #2D516F; color:#E6ECF2}
+body { background: linear-gradient(to bottom right, #3333ff 0%, #ff9900 100%) ; color:#E6ECF2}
 
 /*Titulos*/
 /***************************************************/
-h1 { font-family:"Arial", Times, serif; color:#FF370C; text-align:center;}
+h1 { font-family:"Arial", Times, serif; color:#111; text-align:center;}
 h2 { font-family:"Arial", Times, serif; color:#39F;}
 h3 { font-family:"New Times Roman", Times, serif; color:#39F;}
 h4 { font-family:"New Times Roman", Times, serif; color:#39F;}
@@ -27,5 +27,5 @@ p { font-family:Arial, Helvetica, sans-serif;}
 /***************************************************/
 em { color:#06F;}
 strong { color:#06F;}
-th { background-color:#111; color:#09F; }
-tr { background-color:#333; color:#09F; }
+th { background-color:#111; color:lightgray; }
+tr { background-color:#123456; color:hotpink; }
