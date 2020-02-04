@@ -29,3 +29,12 @@ em { color:#06F;}
 strong { color:#06F;}
 th { background-color:#111; color:lightgray; }
 tr { background-color:#123456; color:hotpink; }
+
+
+li a:hover, li a:active   {
+	color: yellow;
+}
+
+li a:visited {	
+	color:FFFFFF;
+}
